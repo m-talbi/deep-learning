@@ -4,6 +4,7 @@
         "backpropagation",
         "dtype",
         "figsize",
+        "multiclass",
         "optim",
         "preds",
         "randn",
