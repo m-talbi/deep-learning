@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "arange",
+        "argmax",
         "backpropagation",
         "dtype",
         "figsize",
@@ -8,6 +9,9 @@
         "optim",
         "preds",
         "randn",
+        "relu",
+        "softmax",
+        "torchmetrics",
         "unsqueeze"
     ]
 }

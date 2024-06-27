@@ -3,4 +3,5 @@ pandas
 matplotlib
 scikit-learn
 requests
+torchmetrics
 # check PyTorch website for installation guide
