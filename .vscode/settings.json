@@ -12,6 +12,8 @@
         "relu",
         "softmax",
         "torchmetrics",
+        "torchvision",
+        "tqdm",
         "unsqueeze"
     ]
 }
