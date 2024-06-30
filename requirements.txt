@@ -6,4 +6,6 @@ requests
 torchmetrics
 seaborn
 tqdm
+ipywidgets
+mlxtend
 # check PyTorch website for installation guide

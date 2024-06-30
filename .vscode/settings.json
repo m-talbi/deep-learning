@@ -1,19 +1,35 @@
 {
     "cSpell.words": [
+        "annot",
         "arange",
         "argmax",
         "backpropagation",
+        "barh",
+        "cbar",
+        "cmap",
+        "colorbar",
         "dtype",
         "figsize",
+        "fontsize",
+        "imshow",
+        "logit",
+        "mlxtend",
         "multiclass",
+        "ncols",
+        "nrows",
         "optim",
         "preds",
+        "probs",
         "randn",
         "relu",
         "softmax",
         "torchmetrics",
         "torchvision",
         "tqdm",
-        "unsqueeze"
+        "unsqueeze",
+        "xlabel",
+        "xticklabels",
+        "ylabel",
+        "yticklabels"
     ]
 }
