@@ -8,4 +8,5 @@ seaborn
 tqdm
 ipywidgets
 mlxtend
+gdown
 # check PyTorch website for installation guide
