@@ -4,9 +4,12 @@ matplotlib
 scikit-learn
 requests
 torchmetrics
+torchvision
+torchaudio
 seaborn
 tqdm
 ipywidgets
 mlxtend
 gdown
+opencv-python
 # check PyTorch website for installation guide
