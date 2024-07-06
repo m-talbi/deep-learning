@@ -12,4 +12,5 @@ ipywidgets
 mlxtend
 gdown
 opencv-python
+torchinfo
 # check PyTorch website for installation guide
