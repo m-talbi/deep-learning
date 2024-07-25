@@ -11,6 +11,7 @@ tqdm
 ipywidgets
 mlxtend
 gdown
-opencv-python
+opencv-contrib-python
+caer
 torchinfo
 # check PyTorch website for installation guide
